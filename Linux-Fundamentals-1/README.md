@@ -33,7 +33,7 @@ grep
 - Finding a particular thng in files/folders  
 
 ### Shell operator commands  
-```sh
+```bash
 &
 &&
 >
