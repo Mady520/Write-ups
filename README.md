@@ -11,13 +11,13 @@ The purpose of this repository is to:
 - TryHackMe
 
  ### Repository Structure 
- Write-ups/
-│
-├── TryHackMe/
-│   ├── Linux-Fundamentals/
-│   ├── ..
-│ 
-└── README.md
+ Write-ups/  
+│  
+├── TryHackMe/  
+│   ├── Linux-Fundamentals/    
+│   ├── ..  
+│   
+└── README.md  
 
 #### Each room or machine contains its own README.md with:  
 
