@@ -34,16 +34,16 @@ rm -R
 - Knowing manual/documentation of a command.  
 - Create , Copy , Move files/folder.
 - Remove a file/folder/directory.
-- Know rhe file type of a file.
+- Know the type of file.
 
 ### Permission commands  
-**ls -l** shows files/folders with permissions.  
+`ls -l` shows files/folders with permissions.  
 Read &rarr; r &rarr; 4  
 Write &rarr; w &rarr; 2  
 Execute &rarr; x &rarr; 1  
 
-*rwxrwxrwx* &rarr; First *rwx* is of owner , next *rwx* is of group , last *rwx* is of others.  
-The permissions are kept by, what can owner do , what can group do and what can others do to a file. The one who has rwx all that measn that onwer/group/other can read write and execute all three to the file having rwx. If all have *rwxrwxrwx* then the value is 777.  
+`rwxrwxrwx` &rarr; First `rwx` is of owner , next `rwx` is of group , last `rwx` is of others.  
+The permissions are kept by, what can owner do , what can group do and what can others do to a file. The one who has `rwx` all that measn that onwer/group/other can read write and execute all three to the file having rwx. If all have `rwxrwxrwx` then the value is 777.  
 
 ### Commands    
 ```bash
@@ -54,7 +54,7 @@ Su
 ### Concepts learned 
 - File permissions.
 - Know how to change the permissions.
-- Switching users by using *su* command.
+- Switching users by using `su` command.
 
 ### System-Specfic Varaible Directories  
 
