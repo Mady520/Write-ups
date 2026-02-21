@@ -61,8 +61,8 @@ Su
 `/etc` &rarr; Configuration files.. It holds files and scripts that control system behavior.Common place to store system files used by operating system such as 
 `passwd`,`shadow`,`sudeors`.  
 `/var` &rarr; Variable files.. It is the main root folder, stores data that is frequently accessed or written by services or applications running on the system such as `backups`,`log`,`opt`,`tmp`.  
-`/root` Actual home folder for the root user.  
-`/tmp` It is volatile and temporary, it is used to store data that is only needed to be accessed once or twice such as `trash.txt`, `todelette`.  
+`/root` &rarr; Actual home folder for the root user.  
+`/tmp` &rarr; It is volatile and temporary, it is used to store data that is only needed to be accessed once or twice such as `trash.txt`, `todelette`.  
 
 
 
