@@ -38,17 +38,17 @@ cron
 ```
 ### Concepts 
 `python3 -m http.server` is used to create a local server (if needed for some projects/work).  
-`updog` &arr; advanced server.  
-`pid` &arr; Process ID.  
-`ps` &arr; Provides list of the running processes, user's session and some additional information.  
-`ps aux --sort-%CPU` &arr; Shows resource heavy processes running.  
-`kill pid` &arr; To kill a process.  
-`SIGTERM` &arr; Kill the process, but allows it to do some cleanup beforehand.  
-`SIGKILL` &arr; Kill the process,doesn't do any cleanup after the fact.  
-`SIGSTOP` &arr; Stop/suspend a process.  
-`systemctl` &arr; This command allows us to interact with the systemmd processes/deamon.  
-`fg` &arr; used to bring background processes into use on the terminal, where the output of the script is now returned to us.  
-`crontab` &arr; one of the processes that is started during boot, whihc is responsible for facilitating and managing cron jobs.  
-`dpkg` &arr; Package installers.  
+`updog` &rarr; advanced server.  
+`pid` &rarr; Process ID.  
+`ps` &rarr; Provides list of the running processes, user's session and some additional information.  
+`ps aux --sort-%CPU` &rarr; Shows resource heavy processes running.  
+`kill pid` &rarr; To kill a process.  
+`SIGTERM` &rarr; Kill the process, but allows it to do some cleanup beforehand.  
+`SIGKILL` &rarr; Kill the process,doesn't do any cleanup after the fact.  
+`SIGSTOP` &rarr; Stop/suspend a process.  
+`systemctl` &rarr; This command allows us to interact with the systemmd processes/deamon.  
+`fg` &rarr; used to bring background processes into use on the terminal, where the output of the script is now returned to us.  
+`crontab` &rarr; one of the processes that is started during boot, whihc is responsible for facilitating and managing cron jobs.  
+`dpkg` &rarr; Package installers.  
 
 
