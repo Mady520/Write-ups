@@ -17,7 +17,7 @@ pyhton3 -m http.server
 `scp` used during ssh to copy files between two computers remotely.  
 For `scp` several information is needed  
 - Ip address of remote machine.
-- User if the remote machine.
+- User of the remote machine.
 - Name of the file on the local system.
 - Name we wish to store the file as on the remote system.
 e.g `scp file.txt ubuntu@IP:/home/ubuntu/filecopied.txt`.
@@ -36,3 +36,19 @@ systemctl
 fg
 cron
 ```
+### Concepts 
+`python3 -m http.server` is used to create a local server (if needed for some projects/work).  
+`updog` &arr; advanced server.  
+`pid` &arr; Process ID.  
+`ps` &arr; Provides list of the running processes, user's session and some additional information.  
+`ps aux --sort-%CPU` &arr; Shows resource heavy processes running.  
+`kill pid` &arr; To kill a process.  
+`SIGTERM` &arr; Kill the process, but allows it to do some cleanup beforehand.  
+`SIGKILL` &arr; Kill the process,doesn't do any cleanup after the fact.  
+`SIGSTOP` &arr; Stop/suspend a process.  
+`systemctl` &arr; This command allows us to interact with the systemmd processes/deamon.  
+`fg` &arr; used to bring background processes into use on the terminal, where the output of the script is now returned to us.  
+`crontab` &arr; one of the processes that is started during boot, whihc is responsible for facilitating and managing cron jobs.  
+`dpkg` &arr; Package installers.  
+
+
