@@ -23,7 +23,9 @@ using `NTFS` we can set permissions on files and folders.
 `system32` traditionally known as the folder whihc contains the windows operating system. It holds the important files that are critical for the operating system.  
 `%windir%` &rarr; system environment variable directory for windows. Environment variables store information about the operating system environement. The informaiton includes such as OS path , the number of processors used by OS, and the location of temporary files.  
 
-**Administrator**                                                                                **Standard User**
-      &darr;                                                                                           &darr;
- can do anything .can add , delete users , can modify groups etc                                  
- can change any setting in the system.  
+**Administrator**   
+      &darr;       
+ can do anything. Can add , delete users , can modify groups ,can change any setting in the system.  
+   
+ **Standard User**  
+       &darr;
