@@ -20,6 +20,7 @@ ls
 ls --help
 man ls
 ls -h
+ls -la
 touch
 mkdir
 cp
@@ -63,6 +64,9 @@ Su
 `/var` &rarr; Variable files.. It is the main root folder, stores data that is frequently accessed or written by services or applications running on the system such as `backups`,`log`,`opt`,`tmp`.  
 `/root` &rarr; Actual home folder for the root user.  
 `/tmp` &rarr; It is volatile and temporary, it is used to store data that is only needed to be accessed once or twice such as `trash.txt`, `todelette`.  
+`ls -la` is used to see the hidden files. Hackers often hide configuration files or scripts by starting the filename with a dot(.). using -a is essential during a manual forensic audit.  
+
+
 
 
 
