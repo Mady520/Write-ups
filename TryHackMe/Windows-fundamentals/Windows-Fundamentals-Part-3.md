@@ -15,7 +15,7 @@ It helped me understand the windows more and i gained some valuable knowledge.
 **Trusted platform Module** (TPM) &rarr; It is a technology designed to provide hardware based  security related functions. A TPM chip is a secure crypto-processor that is designed to carry out cryptographic operations . The chip includes multiple physical security mechanisms to make it tamper-resisitant , and malicious software is unable to tamper with the security functions of TPM.  
 
 **Active Directory** &rarr; A window domain is a group of users and computers under the administrator of a given business . The main idea behind a domain is to centralize the administration of common components of windows computer networks in a single repository called Active Directory(AD).  
-The server that runs the AD services is known as a Domian Controller (DC).  
+The server that runs the AD services is known as a Domain Controller (DC).  
 
 **Delegation** &rarr; Process of granting users specific priveleges to perform advanced tasks without needign a Domain admininstrator to step in.  
 
