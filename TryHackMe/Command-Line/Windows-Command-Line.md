@@ -16,7 +16,7 @@ ping                            copy
 tracert                         move
 nslookup                        del or erase
 netstat                         tasklist
-taskkill pid                    chkdsh
+taskkill pid                    chkdsk
 drivequery                      shutdown /?
 ```
 
@@ -36,7 +36,7 @@ drivequery                      shutdown /?
 `del or erase` &rarr; Delete a file.  
 `tasklist` &rarr; Lists the running processes.  
 `taskkill pid` &rarr; To kill a process.  
-`Chkdsh` &rarr; Checks file system and disk volumes for errors and bad sectors.  
+`Chkdsk` &rarr; Checks file system and disk volumes for errors and bad sectors.  
 `drivequery` &rarr; Displays a list of installed device drivers.  
 
 
