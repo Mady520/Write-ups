@@ -32,7 +32,7 @@ copy-item                                                 move-item
 
 ### Piping  
 It is a technique in command-line environment that allows the output of one command to be used as the input for another command.
-E.g : get-childitem |Sort-object length.  
+E.g : ```  get-childitem |Sort-object length. ``` 
 Will display the contents then sort them according their lengths.  
 
 ```bash
