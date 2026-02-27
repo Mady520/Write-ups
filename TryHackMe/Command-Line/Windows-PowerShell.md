@@ -35,6 +35,7 @@ It is a technique in command-line environment that allows the output of one comm
 E.g : ```  get-childitem |Sort-object length. ``` 
 Will display the contents then sort them according their lengths.  
 
+### More Commands 
 ```bash
 get-childitem                                         get-netipaddress
 select-object                                         get-process
