@@ -40,8 +40,8 @@ echo "Welcome, $name"
 ```
 output 
 ```bash
-Hey , What si your name!
-john &rarr; user typed
+Hey , What is your name!
+john                         ---> user typed
 Welcome, john
 ```
 
