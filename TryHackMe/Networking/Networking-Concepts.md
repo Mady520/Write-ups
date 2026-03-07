@@ -27,7 +27,7 @@ The OSI model is composed of 7 seven layers:
 Implemented model  
 Transmission Control Protocol/ Internet protocol was developed in the 1970's by the department of defenses DOD.  
 ```mermaid
-      **TCP/IP**                                              **OSI**  
+      **TCP/IP**              ------------------------->          **OSI**  
      _____________________                                  ________________________
     |                     |                                |Application layer       |  
     | Application layer   |    ------------------------->  |Presentation layer      |  
