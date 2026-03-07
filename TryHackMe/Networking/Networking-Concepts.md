@@ -26,6 +26,7 @@ The OSI model is composed of 7 seven layers:
 ### TCP/IP Model 
 Implemented model  
 Transmission Control Protocol/ Internet protocol was developed in the 1970's by the department of defenses DOD.  
+```bash
       **TCP/IP**                                              **OSI**  
      _____________________                                  ________________________
     |                     |                                |Application layer       |  
@@ -43,3 +44,4 @@ Transmission Control Protocol/ Internet protocol was developed in the 1970's by 
     |_____________________|                                |   Physical layer       |
                                                            | ______________________ |
     
+```
