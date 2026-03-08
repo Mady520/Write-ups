@@ -45,3 +45,9 @@ Transmission Control Protocol/ Internet protocol was developed in the 1970's by 
                                                            | ______________________ |
     
 ```
+
+Each host on the network needds a unique identifier for other hosts to communicate with him without a unique identifier , the host cannot be found.  
+That is why IP address was introduced . `IPv4` and `IPv6`.  
+
+A router forwards data packets to the proper network, usually a data packet passes through multiple routers before it reaches its final destination the router functions at layer 3, inspecting the ip address and forwarding the packet to the best network (router) so the packet gets closer to its destination.  
+
