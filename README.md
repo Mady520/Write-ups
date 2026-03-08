@@ -17,7 +17,8 @@ Write-ups/
 ├── TryHackMe/  
 │   ├── Linux-Fundamentals/    
 │   ├── Windows-Fundamentals/  
-│   
+│   |── Command-Line/
+|   |── Networking/
 └── README.md
 ```
 
