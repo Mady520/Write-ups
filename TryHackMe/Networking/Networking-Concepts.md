@@ -51,14 +51,14 @@ That is why IP address was introduced . `IPv4` and `IPv6`.
 
 A router forwards data packets to the proper network, usually a data packet passes through multiple routers before it reaches its final destination the router functions at layer 3, inspecting the ip address and forwarding the packet to the best network (router) so the packet gets closer to its destination.  
 
-**Private Ip ranges**
-10.0.0.0 - 10.255.255.255 (10/8)
-172.16.0.0 - 172.31.255.255 (172.16/12)
-192.168.0.0 - 192.168.255.255 (192.168/16)
+**Private Ip ranges**  
+10.0.0.0 - 10.255.255.255 (10/8)  
+172.16.0.0 - 172.31.255.255 (172.16/12)  
+192.168.0.0 - 192.168.255.255 (192.168/16)  
 
 `UDP` User Datagram Protocol allows us to reach a specific process on the target host. `UDP` is a simple connectionless protocol that operates at the transport layer.  
-`TCP` Transmission Control Protocol - is a connection oriented protocol. It uses various mechanisms to ensure reliable data delivery sent by the different process on the networked hosts.
-`Encapsulation` &rarr; refers to the process of every layer adding a header to the received unit of data and sending the encapsulated unit to the layer below.  
+`TCP` Transmission Control Protocol - is a connection oriented protocol. It uses various mechanisms to ensure reliable data delivery sent by the different process on the networked hosts.  
+`Encapsulation` &rarr; refers to the process of every layer adding a header to the received unit of data and sending the encapsulated unit to the layer below.   
 `TELNET` &rarr; Tele type network protocol is a network protocol for remote terminal connection. It simply allows you to connect to and communicate with a remote system and issue text commands. 
 
 
