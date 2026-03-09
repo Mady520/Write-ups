@@ -15,10 +15,10 @@ The OSI model is composed of 7 seven layers:
 6. Presentation layer
 7. Application layer
 
-**Physcial layer** &rarr; Physical data transmision media. Electrical ,optical and wireless signals.
+**Physcial layer** &rarr; Physical data transmision media. Electrical ,optical and wireless signals.  
 **Data link layer** &rarr; Reliable data transfer between adjacents , error control and flow control. Ethernet (802.3), WI-Fi (803.11).  
 **Network layer** &rarr; Logical addressing and routing between networks. IP, ICMP ,IPsec.  
-**Transport layer** &rarr; End to end communication and data segmentation. Ports UDP,TCP.
+**Transport layer** &rarr; End to end communication and data segmentation. Ports UDP,TCP.  
 **Session layer** &rarr; Establishing ,mainintaing connections and data segmentation.NFS, RPC.  
 **Presentation layer** &rarr; Data encoding - decoding, encryption and compression. MIME, JPG ,PNG, MPEG.  
 **Application layer** &rarr; Provides services and interface to application. HTTP, FTP,DNS,POPS,SMTP,IMAP.  
