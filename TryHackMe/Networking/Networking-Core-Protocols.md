@@ -8,6 +8,7 @@ HTTP & FTP
 SMTP , POP3 & IMAP  
 
 ### Concepts
+**DNS**  
 `DNS` &rarr; Domain Name System,  which is responsible for properly mapping a domain name to an IP address. It operates at application layer. DNS traffic uses `UDP` port 53 by default and `TCP` port 53 as a default feedback.  
 
 **DNS Records**  
@@ -18,6 +19,7 @@ SMTP , POP3 & IMAP
 
 Someone needs the authority to set A , AAAA records & Mx records among other DNS record for the domain. Whoever registers a domain name is granted this power. Therefore, that can set any valid DNS record.This information is part of data available via `WHOis` records and is available publicly.  
 
+**HTTPS**  
 `HTTPS/HTTP`  &rarr; Hypertext Transfer Protocol, the S stands for Secure. This protocol relies on TCP & defines how your web browser communicates with the web server.  
 
 
