@@ -21,5 +21,17 @@ Someone needs the authority to set A , AAAA records & Mx records among other DNS
 
 **HTTPS**  
 `HTTPS/HTTP`  &rarr; Hypertext Transfer Protocol, the S stands for Secure. This protocol relies on TCP & defines how your web browser communicates with the web server.  
+   **Common Commands**
+   `GET` &rarr; Retrieves data from a server , such as an HTML file , or an image.  
+   `POST` &rarr; Allows us to submit new data to the server. e.g submitting a form.  
+   `PUT` &rarr; Is used to create a new resource on the server and to update and overwrite existing information.  
+   `DELETE` &rarr; Is used to delete a specified file or resource on the server.  
+```bash
+Using `TELNET` and using `GET` to get a file:  
+Telnet IP PORT  
+GET file.txt HTTP/1.1  
+HOST: anything
+```
+
 
 
