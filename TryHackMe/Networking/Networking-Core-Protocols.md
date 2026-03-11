@@ -49,14 +49,16 @@ Pass -----
 get filename --> to download.
 ```
 
-**SMTP** Simple Mail Tranfer Protocol, defines how a mail client talks with a mail server and how a mail server talks with another.  
+**SMTP** 
+Simple Mail Tranfer Protocol, defines how a mail client talks with a mail server and how a mail server talks with another.  
 `HELO` &rarr; Initiates an SMTP session.  
 `MAIl from` &rarr; Sender's mail address.  
 `RCPT to` &rarr; Reciepts mail address.  
 `DATA` &rarr; Will begin to sending the contents of the email message.  
 `.` &rarr; To indicate end of message.  
 
-**POP3** Post Office Protocol Version 3 &rarr; is designed to allow client to commnicate with a mail server and retrieve email message.
+**POP3** 
+Post Office Protocol Version 3 &rarr; is designed to allow client to commnicate with a mail server and retrieve email message.
 `USER` &rarr; Username.  
 `PASS` &rarr; Password.  
 `STAT` &rarr; Request the number of messages and total size.  
@@ -65,14 +67,15 @@ get filename --> to download.
 `DELE` &rarr; Marks a message for deletion.  
 `QUIT` &rarr; Quits.  
 
-**IMAP** Allows synchronizing read , moved and deleted messages. IMAP is quite convenient when you check your email via multiple clients. IMAP tends to use more storage as email is kept on the server  and synchronise across the email client. 
+**IMAP** 
+Allows synchronizing read , moved and deleted messages. IMAP is quite convenient when you check your email via multiple clients. IMAP tends to use more storage as email is kept on the server  and synchronise across the email client. 
 `LOGIN` &rarr; <username> <password>.  
 `SELECT <mailbox>` &rarr; Select mailbox.  
 `FETCH <mailno> <data item no>`.  
 `MOVE <Sequence set> <mail box>`  
 `COPY <sequence set> <data item name>`  
 `LOGOUT`.
-~hello
+
 
 
 
